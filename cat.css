@@ -1,0 +1,10 @@
+#a{background-image: url(3.jpeg);  text-align: center;
+background-repeat: no-repeat;
+background-size: 100%;}
+#b{text-align: left; color: text}
+#c{text-align: right;}
+#d{text-align: center;}
+#tom{background-color: #FF8000; float: left; width: 50%}
+#jerry{background-color: #2E64FE; float: right; width: 50%}
+.z{text-align: center;}
+a:hover{background-color: red}
